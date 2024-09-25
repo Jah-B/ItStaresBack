@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5/Projects/ItStaresBack/Content/Items/Struct_Items.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Items/DT_Items.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Items/BP_ItemActor.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/S0/DX6QFKDEZH5CDK2LNOQABH.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Player/BP_Player.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Components/BPC_ItemPickUp.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Interfaces/BPI_Player.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Interfaces/BPI_Items.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Items/M_Highlight.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Items/M_HighlightSelected.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Items/M_HighlightUnselected.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WT/KF9L6KDSP8E9VL9C5K0T7X.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RG/FG1S7FYVQIFCYJ00F14FHZ.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Components/BPC_Inventory.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Interfaces/BPI_Inventory.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/UI/Inventory/W_InventoryItems.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Interfaces/BPI_UI.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/Player/BP_ThirdPersonCharacter.uasset",
+				"E:/UE5/Projects/ItStaresBack/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
