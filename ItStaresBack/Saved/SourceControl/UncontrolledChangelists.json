@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Components/BPC_ItemPickUp.uasset",
 				"E:/UE5/Projects/ItStaresBack/Content/Items/Struct_Items.uasset",
 				"E:/UE5/Projects/ItStaresBack/Content/Items/DT_Items.uasset",
 				"E:/UE5/Projects/ItStaresBack/Content/Items/BP_ItemActor.uasset",
