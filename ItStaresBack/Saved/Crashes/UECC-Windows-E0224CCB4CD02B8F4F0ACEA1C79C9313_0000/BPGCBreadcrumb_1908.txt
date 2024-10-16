@@ -1,0 +1,2 @@
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ItemActor_C_UAID_4CCC6AF99896571F02_1534294543
+/Game/Items/BPs/BP_ItemActor.BP_ItemActor_C

@@ -1,0 +1,2 @@
+/Game/Items/BPs/BP_ItemActor.Default__BP_ItemActor_C
+/Game/Items/BPs/BP_ItemActor.BP_ItemActor_C

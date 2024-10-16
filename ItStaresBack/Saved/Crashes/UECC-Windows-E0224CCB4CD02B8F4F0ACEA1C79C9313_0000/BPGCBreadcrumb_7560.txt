@@ -1,0 +1,2 @@
+/Game/UI/Inventory/W_DraggedImage.Default__W_DraggedImage_C
+/Game/UI/Inventory/W_DraggedImage.W_DraggedImage_C
