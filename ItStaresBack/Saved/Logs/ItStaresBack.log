@@ -4172,3 +4172,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.30-13.16.04:957][513]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.04.30-13.16.20:333][559]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.04.30-13.16.48:572][644]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.30-13.17.04:776][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.04.30-13.17.04:782][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.30-13.17.04:806][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GOAP/BT_Enemy" FILE="../../../../GitHub/ItStaresBack2/ItStaresBack/Content/GOAP/BT_Enemy.uasset" SILENT=true
+[2025.04.30-13.17.04:812][727]LogSavePackage: Moving output files for package: /Game/GOAP/BT_Enemy
+[2025.04.30-13.17.04:813][727]LogSavePackage: Moving '../../../../GitHub/ItStaresBack2/ItStaresBack/Saved/BT_Enemy055F84B545E420DEF78E938F3D3BCF79.tmp' to '../../../../GitHub/ItStaresBack2/ItStaresBack/Content/GOAP/BT_Enemy.uasset'
+[2025.04.30-13.17.04:821][727]LogSavePackage: Moving output files for package: /Game/GOAP/BTreeTasks/Tasks/BTTask_GOAPGeneratePlan
+[2025.04.30-13.17.04:821][727]LogSavePackage: Moving '../../../../GitHub/ItStaresBack2/ItStaresBack/Saved/BTTask_GOAPGeneratePlan699F9CCE46A456CF073000AF9BCDBA69.tmp' to '../../../../GitHub/ItStaresBack2/ItStaresBack/Content/GOAP/BTreeTasks/Tasks/BTTask_GOAPGeneratePlan.uasset'
+[2025.04.30-13.17.04:828][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 861 ms)
+[2025.04.30-13.17.04:830][727]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.30-13.17.04:830][727]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/GOAP/BT_Enemy.BT_Enemy
+[2025.04.30-13.17.04:830][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GOAP/BTreeTasks/Tasks/BTTask_GOAPGeneratePlan.BTTask_GOAPGeneratePlan
