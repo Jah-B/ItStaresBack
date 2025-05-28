@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{33987a05-0a97-4081-a2cc-2fc2fc6c96a0}">
+		<property name="assetPath">
+			<value>Bells, Large, Distant, 100m, Reverberant, Avvocata SND97114.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>36.759729166666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c621cc6d-48ac-4e45-a3c0-a48cfead8be5}</destination>
+		</relationship>
+	</object>
+</objects>
