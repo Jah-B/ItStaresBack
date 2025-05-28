@@ -1449,3 +1449,1587 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.28-22.00.30:378][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.05.28-22.00.30:386][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2025.05.28-22.00.30:419][244]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.28-22.06.49:352][654]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {019a8958-149f-43d2-907a-0126261bfe2b}
+
+[2025.05.28-22.06.53:738][149]BlueprintLog: New page: Compile BP_Enemy
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:778][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:806][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.28-22.06.53:822][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:822][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:822][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:822][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:823][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:823][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:823][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:823][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:824][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:824][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:824][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:824][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:825][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:825][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:848][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:848][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:849][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:849][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:849][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:849][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:850][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:850][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_0, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:850][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:850][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:851][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:851][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_1, they are designed to work with AAIControllers!
+[2025.05.28-22.06.53:904][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {019a8958-149f-43d2-907a-0126261bfe2b}
+
+[2025.05.28-22.06.55:467][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-22.06.55:474][312]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.28-22.06.55:474][312]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.28-22.06.55:476][312]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 6 ms)
+[2025.05.28-22.06.55:516][312]LogFMOD: Display: Loaded bank lookup
+[2025.05.28-22.06.55:516][312]LogFMOD: Display: Loaded asset lookup
+[2025.05.28-22.06.55:520][312]LogFMOD: Default sample rate = 48000
+[2025.05.28-22.06.55:520][312]LogFMOD: System sample rate = 48000
+[2025.05.28-22.06.55:520][312]LogFMOD: Matching system sample rate 48000
+[2025.05.28-22.06.55:573][312]LogFMOD: Loading bank: ../../../../GitHub/ItStaresBack2/ItStaresBack/Content/FMOD/Desktop/Evolution.bank
+[2025.05.28-22.06.55:605][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-22.06.55:605][312]PIE: New page: PIE session: ThirdPersonMap (29 May 2025, 00:06:55)
+[2025.05.28-22.06.55:605][312]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.06.55:610][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004989s)
+[2025.05.28-22.06.55:610][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005024s)
+[2025.05.28-22.06.55:624][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.28-22.06.55:627][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-22.06.55:627][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-22.06.55:628][312]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-22.06.55:628][312]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-22.06.55:628][312]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-22.06.55:628][312]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.28-22.06.55:628][312]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.28-22.06.55:629][312]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-22.06.55:629][312]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 95 ms)
+[2025.05.28-22.06.55:629][312]LogPlayLevel: PIE: World Init took: (0.002399s)
+[2025.05.28-22.06.55:630][312]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.28-22.06.55:630][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-22.06.55:630][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-22.06.55:630][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-22.06.55:630][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-22.06.55:630][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-22.06.55:632][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-22.06.55:696][312]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.05.28-22.06.55:696][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-22.06.55:696][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-22.06.55:696][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-22.06.55:697][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.28-22.06.55:697][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.28-22.06.55:699][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.28-22.06.55:699][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.28-22.06.55:699][312]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.28-22.06.55:699][312]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.05.28-22.06.55:699][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.28-22.06.55:714][312]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2025.05.28-22.06.55:716][312]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.06.55:716][312]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.06.55:716][312]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-23.06.55
+[2025.05.28-22.06.55:717][312]LogWorld: Bringing up level for play took: 0.002934
+[2025.05.28-22.06.55:719][312]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.05.28-22.06.55:725][312]PIE: Server logged in
+[2025.05.28-22.06.55:725][312]PIE: Play in editor total start time 0.251 seconds.
+[2025.05.28-22.06.55:745][313]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: ================================================
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: Total job queries 50, among them cache hits 30 (60.00%)
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 15 distinct outputs (75.00%)
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: RAM used: 388.92 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.28-22.06.55:748][313]LogShaderCompilers: Display: ================================================
+[2025.05.28-22.06.55:883][315]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.55:949][319]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:053][326]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:151][336]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:250][346]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:348][356]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:447][367]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:551][378]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:645][387]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.56:747][396]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:146][403]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:478][404]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:488][405]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:501][406]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:511][407]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:520][408]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:528][409]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:571][410]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:671][415]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:749][422]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:846][432]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.57:951][443]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:045][453]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:145][464]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:248][475]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:350][486]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:450][497]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:550][508]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:649][519]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:744][529]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:849][539]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.58:952][550]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:047][560]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:146][571]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:245][582]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:346][593]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:449][605]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:553][617]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:651][628]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:748][639]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:852][650]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.06.59:953][660]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:046][670]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:149][681]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:247][692]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:346][703]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:452][715]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:546][726]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:646][737]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:747][748]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:845][759]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.00:951][771]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:052][783]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:153][795]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:244][806]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:344][818]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:445][830]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:546][842]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:651][854]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:746][865]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:849][877]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.01:858][878]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.01:892][882]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.01:925][886]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.01:950][889]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.01:960][890]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.02:046][900]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:147][912]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:249][924]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:350][936]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:451][948]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:545][959]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:647][971]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:749][983]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:849][995]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.02:951][  7]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:046][ 18]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:151][ 29]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:251][ 39]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:352][ 49]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:447][ 60]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:550][ 71]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:655][ 82]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:750][ 92]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:852][103]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.03:949][114]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:052][126]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:146][137]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:250][149]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:347][160]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:450][172]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:551][184]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:644][195]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:748][207]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:850][218]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.04:948][228]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:044][239]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:144][250]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:247][262]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:350][274]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:450][286]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:551][298]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:643][309]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:747][321]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:849][332]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.05:947][343]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:046][354]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:149][366]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:251][376]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:352][387]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:448][398]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:552][410]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:647][420]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:752][431]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:845][441]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.06:946][453]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:051][465]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:144][476]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:246][488]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:347][500]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:450][512]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:552][524]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:645][535]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:747][547]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:844][558]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.07:946][570]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:051][582]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:144][593]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:246][605]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:349][617]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:451][629]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:545][640]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:647][652]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:747][664]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:851][676]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.08:944][687]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:046][699]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:148][711]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:248][722]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:345][732]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:451][744]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:545][755]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:649][767]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:752][779]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:845][790]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.09:945][802]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.10:046][814]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.10:286][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.07.10:287][820]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.07.10:287][820]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.07.10:289][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.07.10:289][820]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-22.07.10:301][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-22.07.10:315][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.07.10:355][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.28-22.07.10:355][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.28-22.07.10:355][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.28-22.07.10:358][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.28-22.07.10:366][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.07.10:370][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.05.28-22.07.10:410][821]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.05.28-22.07.15:984][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-22.07.15:990][217]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.28-22.07.15:990][217]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.28-22.07.15:992][217]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 7 ms)
+[2025.05.28-22.07.16:035][217]LogFMOD: Display: Loaded bank lookup
+[2025.05.28-22.07.16:035][217]LogFMOD: Display: Loaded asset lookup
+[2025.05.28-22.07.16:039][217]LogFMOD: Default sample rate = 48000
+[2025.05.28-22.07.16:039][217]LogFMOD: System sample rate = 48000
+[2025.05.28-22.07.16:039][217]LogFMOD: Matching system sample rate 48000
+[2025.05.28-22.07.16:093][217]LogFMOD: Loading bank: ../../../../GitHub/ItStaresBack2/ItStaresBack/Content/FMOD/Desktop/Evolution.bank
+[2025.05.28-22.07.16:125][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-22.07.16:125][217]PIE: New page: PIE session: ThirdPersonMap (29 May 2025, 00:07:16)
+[2025.05.28-22.07.16:125][217]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.07.16:130][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004493s)
+[2025.05.28-22.07.16:130][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004523s)
+[2025.05.28-22.07.16:144][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.28-22.07.16:145][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-22.07.16:145][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-22.07.16:145][217]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-22.07.16:146][217]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-22.07.16:146][217]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-22.07.16:146][217]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.28-22.07.16:146][217]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.28-22.07.16:147][217]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-22.07.16:147][217]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 97 ms)
+[2025.05.28-22.07.16:147][217]LogPlayLevel: PIE: World Init took: (0.002181s)
+[2025.05.28-22.07.16:147][217]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.28-22.07.16:147][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-22.07.16:147][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-22.07.16:148][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-22.07.16:148][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-22.07.16:148][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-22.07.16:149][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-22.07.16:206][217]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.05.28-22.07.16:207][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-22.07.16:207][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-22.07.16:207][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-22.07.16:207][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.28-22.07.16:207][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.28-22.07.16:209][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.28-22.07.16:209][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.28-22.07.16:209][217]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.28-22.07.16:209][217]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.05.28-22.07.16:209][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.28-22.07.16:211][217]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2025.05.28-22.07.16:213][217]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.07.16:213][217]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.07.16:213][217]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-23.07.16
+[2025.05.28-22.07.16:214][217]LogWorld: Bringing up level for play took: 0.002554
+[2025.05.28-22.07.16:216][217]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.05.28-22.07.16:220][217]PIE: Server logged in
+[2025.05.28-22.07.16:221][217]PIE: Play in editor total start time 0.231 seconds.
+[2025.05.28-22.07.16:240][218]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:359][219]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:451][224]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:543][230]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:639][239]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:746][249]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:847][258]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.16:970][267]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:049][273]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:142][284]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:243][296]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:347][308]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:446][318]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:541][329]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:643][341]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:744][353]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:846][365]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.17:943][376]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:039][387]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:145][399]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:244][410]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:342][421]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:445][433]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:546][445]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:640][456]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:741][468]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:847][480]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.18:942][491]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:043][503]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:145][515]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:246][526]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:343][537]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:446][549]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:540][559]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:646][571]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:741][582]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:840][592]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.19:944][603]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:047][614]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:141][625]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:244][637]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:346][649]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:447][661]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:545][672]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:642][683]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:743][695]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:846][707]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.20:939][718]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:041][730]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:143][742]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:247][753]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:343][763]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:447][774]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:541][784]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:643][795]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:745][806]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:839][816]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.21:942][827]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:047][839]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:140][850]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:241][862]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:342][874]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:443][886]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:543][898]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:644][910]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:745][922]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:847][934]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.22:942][945]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.23:045][957]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.23:146][969]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.23:241][980]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.23:310][988]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.23:345][992]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:346][992]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.23:446][  4]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:546][ 16]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:639][ 27]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:742][ 39]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:843][ 51]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.23:943][ 63]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:045][ 75]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:147][ 87]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:239][ 98]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:340][110]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:442][122]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:544][134]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:645][146]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:747][158]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:847][170]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.24:940][181]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:042][193]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:144][205]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:239][216]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:342][228]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:443][240]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:544][252]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:645][264]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:739][275]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:842][287]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.25:946][299]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:041][310]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:141][322]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:248][333]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:342][344]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:446][356]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:546][368]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:639][379]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:740][391]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:845][403]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.26:946][415]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:041][426]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:142][438]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:246][450]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:339][461]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:444][473]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:539][484]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:640][496]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:743][508]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:846][520]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.27:940][531]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.28:128][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.07.28:128][532]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.07.28:129][532]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.07.28:130][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.07.28:130][532]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-22.07.28:135][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-22.07.28:142][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.07.28:167][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.07.28:167][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.28-22.07.28:168][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.28-22.07.28:170][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.28-22.07.28:181][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.28-22.07.28:209][533]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.05.28-22.07.29:596][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-22.07.29:602][690]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.28-22.07.29:602][690]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.28-22.07.29:605][690]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 10 ms)
+[2025.05.28-22.07.29:645][690]LogFMOD: Display: Loaded bank lookup
+[2025.05.28-22.07.29:645][690]LogFMOD: Display: Loaded asset lookup
+[2025.05.28-22.07.29:649][690]LogFMOD: Default sample rate = 48000
+[2025.05.28-22.07.29:649][690]LogFMOD: System sample rate = 48000
+[2025.05.28-22.07.29:649][690]LogFMOD: Matching system sample rate 48000
+[2025.05.28-22.07.29:713][690]LogFMOD: Loading bank: ../../../../GitHub/ItStaresBack2/ItStaresBack/Content/FMOD/Desktop/Evolution.bank
+[2025.05.28-22.07.29:756][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-22.07.29:756][690]PIE: New page: PIE session: ThirdPersonMap (29 May 2025, 00:07:29)
+[2025.05.28-22.07.29:756][690]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.07.29:761][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004839s)
+[2025.05.28-22.07.29:761][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004883s)
+[2025.05.28-22.07.29:777][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.28-22.07.29:778][690]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-22.07.29:778][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-22.07.29:778][690]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-22.07.29:779][690]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-22.07.29:779][690]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-22.07.29:779][690]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.28-22.07.29:779][690]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.28-22.07.29:780][690]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-22.07.29:780][690]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 98 ms)
+[2025.05.28-22.07.29:781][690]LogPlayLevel: PIE: World Init took: (0.002639s)
+[2025.05.28-22.07.29:781][690]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.28-22.07.29:781][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-22.07.29:781][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-22.07.29:782][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-22.07.29:782][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-22.07.29:782][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-22.07.29:783][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-22.07.29:843][690]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.05.28-22.07.29:843][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-22.07.29:843][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-22.07.29:843][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-22.07.29:843][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.28-22.07.29:843][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.28-22.07.29:846][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.28-22.07.29:846][690]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.28-22.07.29:846][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.28-22.07.29:846][690]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.05.28-22.07.29:846][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.28-22.07.29:848][690]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2025.05.28-22.07.29:850][690]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.07.29:850][690]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951, they are designed to work with AAIControllers!
+[2025.05.28-22.07.29:850][690]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-23.07.29
+[2025.05.28-22.07.29:851][690]LogWorld: Bringing up level for play took: 0.002561
+[2025.05.28-22.07.29:853][690]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.05.28-22.07.29:858][690]PIE: Server logged in
+[2025.05.28-22.07.29:859][690]PIE: Play in editor total start time 0.257 seconds.
+[2025.05.28-22.07.29:878][691]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.29:996][693]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:107][698]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:179][703]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:285][714]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:381][724]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:480][735]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:583][747]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:683][759]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:782][771]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:883][783]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.30:977][794]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:078][806]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:179][818]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:281][830]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:384][842]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:484][854]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:584][866]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:677][877]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:777][889]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:882][901]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.31:984][913]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:078][924]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:179][936]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:280][948]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:381][960]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:483][972]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:582][984]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:683][996]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:784][  8]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:883][ 20]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.32:985][ 32]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:077][ 43]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:178][ 55]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:279][ 67]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:381][ 79]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:487][ 91]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:581][102]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:683][114]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:778][125]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:883][137]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.33:981][148]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:084][160]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:184][172]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:278][183]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:379][194]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:484][206]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:585][218]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:677][229]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:779][241]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:880][253]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.34:984][265]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:078][276]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:179][288]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:282][300]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:383][312]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:484][324]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:584][336]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:677][347]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:780][359]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:882][371]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.35:984][383]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] true
+[2025.05.28-22.07.36:019][387]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.36:053][391]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.36:078][394]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:087][395]LogBlueprintUserMessages: [BP_Enemy_C_UAID_4CCC6AF99896403902_1133341951] Evolved
+[2025.05.28-22.07.36:179][406]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:285][418]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:383][429]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:480][440]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:583][452]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:684][464]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:781][475]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:884][487]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.36:977][498]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:083][510]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:184][521]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:287][532]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:379][542]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:480][554]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:584][566]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:679][577]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:780][588]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:878][598]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.37:989][609]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:088][619]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:179][628]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:283][639]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:384][650]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:484][662]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:578][672]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:680][683]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:783][694]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:877][705]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.38:980][717]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:084][729]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:184][741]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:279][752]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:381][764]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:484][776]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:581][787]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:677][798]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:777][810]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:880][822]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.39:981][834]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:084][846]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:179][857]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:279][868]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:381][880]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:477][891]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:580][903]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:685][915]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:781][926]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:883][938]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.40:978][949]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:081][961]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:182][973]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:277][984]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:382][996]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:481][  7]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:580][ 18]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:685][ 30]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:778][ 41]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:883][ 52]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.41:979][ 62]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:083][ 74]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:183][ 86]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:285][ 98]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:377][109]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:485][121]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:583][132]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:684][144]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:777][155]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:879][167]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.42:982][179]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:084][191]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:178][202]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:286][214]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:385][225]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:481][236]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:584][248]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:677][259]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:782][271]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:880][282]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.43:978][293]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:079][303]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:180][314]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:283][326]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:378][337]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:481][349]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:583][361]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:683][372]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:786][384]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:882][395]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.44:982][407]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:085][419]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:180][430]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:283][442]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:383][454]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:484][466]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:580][477]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:686][489]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:779][500]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:882][512]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.45:983][523]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:082][534]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:184][545]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:277][555]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:378][566]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:485][577]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:582][587]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:680][598]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:785][609]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:878][619]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.46:978][630]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:079][641]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:182][653]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:279][663]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:382][675]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:484][687]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:578][698]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:680][710]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:781][722]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:884][734]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.47:985][745]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:081][756]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:184][768]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:277][779]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:382][791]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:477][802]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:584][814]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:679][825]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:784][837]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:879][848]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.48:984][860]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:079][871]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:181][883]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:283][895]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:383][906]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:487][917]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:580][928]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:681][940]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:782][952]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:876][963]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.49:978][975]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:081][987]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:184][999]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:280][ 10]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:383][ 22]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:478][ 33]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:579][ 45]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:680][ 57]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:783][ 69]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:878][ 80]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.50:981][ 92]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:081][104]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:182][116]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:285][128]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:381][139]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:483][151]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:584][163]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:685][174]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:781][185]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:881][197]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.51:983][209]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:084][221]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:177][232]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:278][244]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:380][256]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:481][268]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:582][280]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:684][292]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:778][303]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:878][315]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.52:981][327]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:081][339]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:177][350]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:280][362]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:385][373]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:479][383]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:583][395]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:677][406]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:780][417]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:899][428]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.53:984][438]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:085][450]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:178][460]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:279][471]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:384][483]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:478][494]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:580][506]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:679][517]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:785][529]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:880][540]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.54:981][551]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:082][563]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:178][574]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:280][586]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:381][598]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:482][610]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:583][622]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:682][633]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:785][645]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:877][656]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.55:980][668]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:084][680]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:177][690]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:284][702]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:378][713]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:486][725]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:583][736]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:685][747]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:782][758]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:880][769]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.56:978][780]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:080][792]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:181][804]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:277][815]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:379][827]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:482][839]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:583][851]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:683][862]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:779][873]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:882][885]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.57:979][896]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:082][908]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:184][920]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:278][931]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:384][943]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:481][953]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:585][964]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:679][975]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:782][987]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:886][999]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.58:978][  9]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:081][ 21]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:178][ 31]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:284][ 43]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:385][ 55]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:486][ 66]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:579][ 77]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:681][ 89]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:778][100]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:881][112]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.07.59:987][124]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:082][135]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:185][147]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:278][158]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:385][170]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:479][181]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:581][193]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:679][203]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:784][214]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:885][225]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.00:980][235]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:086][246]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:177][256]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:283][268]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:383][279]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:478][290]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:577][301]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:681][313]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:779][324]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:881][336]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.01:982][348]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:084][360]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:180][371]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:283][383]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:377][394]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:483][406]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:583][417]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:679][428]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:783][440]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:878][451]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.02:984][463]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:085][475]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:178][486]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:279][498]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:383][510]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:486][522]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:578][532]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:684][544]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:784][555]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:885][566]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.03:978][577]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:081][589]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:184][601]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:284][613]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:378][624]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:478][636]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:583][648]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:681][659]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:782][671]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:879][682]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.04:980][693]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:084][705]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:179][716]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:286][728]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:377][738]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:485][750]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:579][761]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:682][773]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:781][784]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:878][795]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.05:977][806]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.28-22.08.05:977][806]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.05.28-22.08.05:977][806]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.05.28-22.08.05:986][807]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:080][818]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:179][829]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:288][839]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:385][848]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:480][858]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:584][869]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:677][879]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:782][891]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:883][902]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.06:984][914]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:078][925]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:180][937]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:282][949]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:385][961]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:478][972]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:578][983]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:679][995]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:785][  7]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:879][ 18]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.07:984][ 30]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:082][ 41]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:185][ 53]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:278][ 64]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:380][ 76]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:481][ 88]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:578][ 99]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:678][111]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:703][114]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.28-22.08.08:703][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.05.28-22.08.08:780][123]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:877][134]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.08:983][145]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:086][156]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:179][167]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:281][179]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:383][191]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:480][202]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:587][213]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:679][223]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:786][234]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:878][244]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.09:978][255]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:084][266]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:180][276]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:279][287]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:382][298]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:488][305]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:580][314]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:684][325]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:785][336]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:881][347]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.10:983][358]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.11:077][369]LogBlueprintUserMessages: [BP_Planner_C_UAID_4CCC6AF99896126102_1595105095] false
+[2025.05.28-22.08.11:329][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.08.11:330][379]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-22.08.11:330][379]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.11:331][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.11:331][379]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-22.08.11:335][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-22.08.11:339][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.11:354][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-22.08.11:354][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.28-22.08.11:354][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.28-22.08.11:356][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.28-22.08.11:366][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.28-22.08.11:392][380]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.05.28-22.08.28:617][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.28-22.08.30:300][649]LogSlate: Window 'Save Content' being destroyed
+[2025.05.28-22.08.30:312][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.28-22.08.30:512][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../GitHub/ItStaresBack2/ItStaresBack/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2025.05.28-22.08.30:526][649]LogSavePackage: Moving output files for package: /Game/Enemy/BP_Enemy
+[2025.05.28-22.08.30:526][649]LogSavePackage: Moving '../../../../GitHub/ItStaresBack2/ItStaresBack/Saved/BP_EnemyF3003110434CAD51A69560876F178073.tmp' to '../../../../GitHub/ItStaresBack2/ItStaresBack/Content/Enemy/BP_Enemy.uasset'
+[2025.05.28-22.08.30:534][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 466 ms)
+[2025.05.28-22.08.30:534][649]LogStall: Shutdown...
+[2025.05.28-22.08.30:541][649]LogStall: Shutdown complete.
+[2025.05.28-22.08.30:624][649]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:624][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:671][649]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:671][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:719][649]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:719][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:767][649]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:767][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:812][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.28-22.08.30:812][649]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:812][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:866][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.28-22.08.30:866][649]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:866][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:927][649]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:927][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.30:973][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.28-22.08.30:973][649]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.30:974][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.31:025][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.28-22.08.31:025][649]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.31:025][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.31:088][649]LogSlate: Window 'ItStaresBack - Unreal Editor' being destroyed
+[2025.05.28-22.08.31:160][649]AssetCheck: New page: Asset Save: BP_Enemy
+[2025.05.28-22.08.31:160][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2025.05.28-22.08.31:163][650]Cmd: QUIT_EDITOR
+[2025.05.28-22.08.31:163][650]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.28-22.08.31:166][650]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.28-22.08.31:166][650]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.28-22.08.31:166][650]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.28-22.08.31:167][650]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.31:167][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-22.08.31:168][650]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-22.08.31:175][650]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.28-22.08.31:998][650]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.28-22.08.31:998][650]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.28-22.08.31:998][650]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.05.28-22.08.31:998][650]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.05.28-22.08.31:998][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.28-22.08.32:001][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.28-22.08.32:010][650]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.28-22.08.32:011][650]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.28-22.08.32:018][650]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.28-22.08.32:018][650]LogExit: Preparing to exit.
+[2025.05.28-22.08.32:056][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:068][650]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.28-22.08.32:860][650]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.32:866][650]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.32:874][650]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.32:880][650]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-22.08.33:076][650]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/]. Aborting watch request...
+[2025.05.28-22.08.33:108][650]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.28-22.08.33:158][650]LogExit: Editor shut down
+[2025.05.28-22.08.33:162][650]LogExit: Transaction tracking system shut down
+[2025.05.28-22.08.33:300][650]LogExit: Object subsystem successfully closed.
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: ================================================
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: Total job queries 62, among them cache hits 36 (58.06%)
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 20 distinct outputs (76.92%)
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: RAM used: 548.00 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.05.28-22.08.33:307][650]LogShaderCompilers: Display: ================================================
+[2025.05.28-22.08.33:363][650]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.28-22.08.33:377][650]LogVirtualization: UE::Virtualization was shutdown
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1060)
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module Voice (1058)
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1056)
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1054)
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module SceneOutliner (1052)
+[2025.05.28-22.08.33:390][650]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module StatusBar (1046)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1044)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1042)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1040)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module StatsViewer (1038)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1036)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AutomationWorker (1034)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1032)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module BspMode (1030)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module GeometryMode (1028)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1026)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module SmartSnapping (1024)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1022)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1020)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module RigVMEditor (1018)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1016)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1014)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1012)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1010)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1008)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1006)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1004)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1002)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1000)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (998)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module WebMMedia (996)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (994)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (992)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module SequenceRecorder (991)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (988)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (986)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (984)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (982)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (980)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (978)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (976)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (974)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module PlanarCut (972)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module FractureEngine (970)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module CharacterAI (968)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module IKRigEditor (966)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ControlRigEditor (964)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module SessionServices (962)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module MeshPaint (960)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (958)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module PlacementMode (957)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module FoliageEdit (954)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module LandscapeEditor (952)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (950)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ActorPickerMode (948)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ViewportSnapping (946)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module EditorWidgets (944)
+[2025.05.28-22.08.33:391][650]LogModuleManager: Shutting down and abandoning module ViewportInteraction (942)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module ClothPainter (940)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (939)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module WidgetRegistration (936)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module LogVisualizer (934)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (932)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (930)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (929)
+[2025.05.28-22.08.33:392][650]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (927)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (924)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (922)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (920)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (918)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (916)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (914)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AnimationSettings (912)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (910)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module CSVtoSVG (908)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (906)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module EditorConfig (904)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module EditorFramework (902)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (900)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module TraceInsights (898)
+[2025.05.28-22.08.33:740][650]MemoryProfiler: Shutdown
+[2025.05.28-22.08.33:740][650]NetworkingProfiler: Shutdown
+[2025.05.28-22.08.33:740][650]LoadingProfiler: Shutdown
+[2025.05.28-22.08.33:740][650]TimingProfiler: Shutdown
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module TraceServices (897)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module TraceAnalysis (896)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (892)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (891)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module InputBindingEditor (888)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module MergeActors (886)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (884)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module LocalizationService (883)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module HardwareTargeting (880)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (878)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module UndoHistory (876)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module XmlParser (874)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module Blutility (872)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (870)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (869)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (866)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (865)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module SettingsEditor (862)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module ProjectLauncher (860)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module SessionFrontend (858)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module ProfilerClient (856)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module DeviceManager (854)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AutomationController (852)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AutomationWindow (850)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module Layers (848)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (846)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module DetailCustomizations (844)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module PackagesDialog (842)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (840)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module Persona (838)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (837)
+[2025.05.28-22.08.33:740][650]LogModuleManager: Shutting down and abandoning module Kismet (834)
+[2025.05.28-22.08.33:746][650]LogModuleManager: Shutting down and abandoning module KismetWidgets (833)
+[2025.05.28-22.08.33:746][650]LogModuleManager: Shutting down and abandoning module GraphEditor (830)
+[2025.05.28-22.08.33:747][650]LogModuleManager: Shutting down and abandoning module StructViewer (828)
+[2025.05.28-22.08.33:747][650]LogModuleManager: Shutting down and abandoning module ClassViewer (826)
+[2025.05.28-22.08.33:748][650]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (824)
+[2025.05.28-22.08.33:748][650]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (822)
+[2025.05.28-22.08.33:748][650]LogModuleManager: Shutting down and abandoning module SourceControlWindows (820)
+[2025.05.28-22.08.33:748][650]LogModuleManager: Shutting down and abandoning module OutputLog (818)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module Documentation (816)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (814)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (812)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module MovieScene (810)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (808)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (806)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (804)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AudioMixer (803)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AudioMixerCore (802)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module LauncherPlatform (798)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AnalyticsET (796)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module PortalServices (794)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module PortalRpc (792)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module MessagingRpc (790)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AIModule (788)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module GameplayDebugger (787)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module AITestSuite (785)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module NavigationSystem (783)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (780)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (778)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module TypedElementFramework (776)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (774)
+[2025.05.28-22.08.33:749][650]LogModuleManager: Shutting down and abandoning module ProfilerService (772)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (770)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (768)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (766)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (764)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (762)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module TakesCore (760)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module MegascansPlugin (758)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module Bridge (756)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module FMODStudioNiagara (754)
+[2025.05.28-22.08.33:803][650]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (752)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module LightMixer (750)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2025.05.28-22.08.33:815][650]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (738)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (736)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (734)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module UVEditorTools (732)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module UVEditor (730)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (728)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (726)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module PluginBrowser (724)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (722)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (720)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (718)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (716)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module EditorDebugTools (714)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module CurveEditorTools (712)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ChangelistReview (710)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (708)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module CryptoKeys (706)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (704)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (702)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (700)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (698)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module UObjectPlugin (696)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (694)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module PluginUtils (692)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (690)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GitSourceControl (688)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DumpGPUServices (686)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (684)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (682)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (680)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (678)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (676)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module Paper2DEditor (674)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (672)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SynthesisEditor (670)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ResonanceAudio (668)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (666)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (664)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (662)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingOperators (660)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (658)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingComponents (656)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryFramework (655)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (652)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshModelingTools (650)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (648)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InputDebugging (646)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GooglePAD (644)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DynamicMesh (642)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (640)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (638)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (636)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (634)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AssetTags (632)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AudioCapture (630)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (629)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (626)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (624)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AppleImageUtils (622)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AndroidPermission (620)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (618)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (616)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (614)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (612)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (610)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeExport (608)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeMessages (606)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GLTFCore (604)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (602)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (600)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeEditor (598)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module TakeSequencer (596)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module TakeMovieScene (594)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module TemplateSequence (592)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (590)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SequencerScripting (588)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module VariantManager (586)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (585)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (582)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (580)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InterchangeTests (578)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (574)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MediaPlate (572)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MediaCompositing (570)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ImgMedia (568)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AlembicImporter (566)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AlembicLibrary (565)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCache (564)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (563)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (558)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (556)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (554)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (552)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (550)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (548)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (546)
+[2025.05.28-22.08.33:816][650]LogOpenImageDenoise: OIDN shutting down
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (544)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module LocalizableMessage (542)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (540)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (538)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (536)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (534)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (532)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshLODToolset (530)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (528)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (526)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (524)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (522)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (520)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (519)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (517)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (514)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DataflowNodes (512)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (510)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module DataflowEditor (508)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (506)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (504)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ChaosNiagara (502)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (500)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (496)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AutomationUtils (494)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ControlRigSpline (490)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (488)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (486)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (484)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2025.05.28-22.08.33:816][650]LogModuleManager: Shutting down and abandoning module FMODStudio (472)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (470)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (468)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module FacialAnimation (466)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module DataValidation (464)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (462)
+[2025.05.28-22.08.34:088][650]LogModuleManager: Shutting down and abandoning module TreeMap (461)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (458)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (456)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module AnimationSharing (454)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module Paper2D (452)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (450)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module Niagara (448)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module NiagaraEditor (447)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module ContentBrowser (446)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module ContentBrowserData (445)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module NiagaraCore (440)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module Synthesis (438)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module SoundFields (436)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module SignificanceManager (434)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (432)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module RigVM (430)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (428)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (426)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (424)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundEditor (422)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module ToolMenus (421)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module AudioWidgets (419)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (418)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (414)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundEngine (412)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module WaveTable (411)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (409)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (406)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (404)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (402)
+[2025.05.28-22.08.34:089][650]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (400)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (396)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (393)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (390)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module SignalProcessing (389)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module InterchangePipelines (384)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module InterchangeImport (382)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (380)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module InterchangeNodes (378)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module ActorSequence (376)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (374)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module GameplayCameras (372)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (370)
+[2025.05.28-22.08.34:090][650]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2025.05.28-22.08.34:190][650]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module StructUtils (364)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module PBIK (360)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module FullBodyIK (358)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (356)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module TakeRecorder (355)
+[2025.05.28-22.08.34:291][650]LogModuleManager: Shutting down and abandoning module LevelEditor (353)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (352)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (350)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module MainFrame (348)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module ChaosCaching (342)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (340)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module IKRig (338)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (336)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module ControlRig (334)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module Constraints (333)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module LevelSequence (331)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module AnimationData (328)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2025.05.28-22.08.34:293][650]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2025.05.28-22.08.34:295][650]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2025.05.28-22.08.34:296][650]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module Core (244)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2025.05.28-22.08.34:302][650]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2025.05.28-22.08.34:303][650]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2025.05.28-22.08.34:303][650]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2025.05.28-22.08.34:303][650]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2025.05.28-22.08.34:303][650]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2025.05.28-22.08.34:313][650]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2025.05.28-22.08.34:313][650]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2025.05.28-22.08.34:313][650]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2025.05.28-22.08.34:313][650]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2025.05.28-22.08.34:316][650]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2025.05.28-22.08.34:316][650]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2025.05.28-22.08.34:316][650]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (122)
+[2025.05.28-22.08.34:317][650]RenderDocPlugin: plugin has been unloaded.
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module PixWinPlugin (120)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (118)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module NiagaraShader (116)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (114)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (112)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module ChunkDownloader (110)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module GLTFExporter (106)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module DatasmithContent (104)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (102)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (100)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (98)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (94)
+[2025.05.28-22.08.34:317][650]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2025.05.28-22.08.34:320][650]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2025.05.28-22.08.34:320][650]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2025.05.28-22.08.34:336][650]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2025.05.28-22.08.34:336][650]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.28-22.08.34:336][650]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E42DCEA-4ED9-B413-9315-2D9AFD17D5E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=46a8853b473aca29910f44a5a42a666f%7C527a7e4e28dd4fbf8f4d680ec441c857%7C4763a68c-ea16-4499-981f-9291be358746&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.05.28-22.08.34:367][650]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2025.05.28-22.08.34:368][650]LogModuleManager: Shutting down and abandoning module WmfMedia (78)
+[2025.05.28-22.08.34:371][650]LogModuleManager: Shutting down and abandoning module Media (77)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module AISupportModule (72)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module ChaosCloth (68)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module ACLPlugin (66)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (50)
+[2025.05.28-22.08.34:373][650]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.05.28-22.08.34:373][650]LogXGEController: Cleaning working directory: C:/Users/bblac/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.05.28-22.08.34:374][650]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.05.28-22.08.34:375][650]LogPakFile: Destroying PakPlatformFile
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.05.28-22.08.34:375][650]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.05.28-22.08.34:448][650]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.28-22.08.34:471][650]LogExit: Exiting.
+[2025.05.28-22.08.34:514][650]Log file closed, 05/28/25 23:08:34
