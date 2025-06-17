@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a54b2691-1eda-4094-ace8-ad1332390e81}">
+		<property name="assetPath">
+			<value>Human Footsteps/7-2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.54074999999999995</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c621cc6d-48ac-4e45-a3c0-a48cfead8be5}</destination>
+		</relationship>
+	</object>
+</objects>

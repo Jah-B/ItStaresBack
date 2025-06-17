@@ -31,6 +31,9 @@
 		<relationship name="parameters">
 			<destination>{cee928eb-1405-47ac-972f-f459e86ed1df}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{c8a6c1aa-ec74-428b-b0e7-e657f35dfdea}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{89064bdb-2c99-4a65-840e-dfbbb8e20999}">
 		<relationship name="masterBus">
@@ -96,6 +99,7 @@
 			<destination>{df7a8e69-b4a8-4167-a861-ff64241cb6c7}</destination>
 			<destination>{c2df4d6f-6a52-41a2-8aae-de84de6ce2b3}</destination>
 			<destination>{45a2841d-1a23-45b7-b188-38afced01f6a}</destination>
+			<destination>{6cd880bd-337a-4175-b950-664a21eac42e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3e638f9e-d550-4f16-a779-3ebbfe903604}" />
@@ -125,6 +129,23 @@
 		</property>
 		<property name="highCut">
 			<value>280</value>
+		</property>
+	</object>
+	<object class="MultibandEqEffect" id="{6cd880bd-337a-4175-b950-664a21eac42e}">
+		<property name="filterTypeB">
+			<value>7</value>
+		</property>
+		<property name="frequencyA">
+			<value>651.196777</value>
+		</property>
+		<property name="frequencyB">
+			<value>146.501358</value>
+		</property>
+		<property name="qualityA">
+			<value>0.686068952</value>
+		</property>
+		<property name="gainB">
+			<value>-30</value>
 		</property>
 	</object>
 </objects>

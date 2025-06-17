@@ -31,6 +31,9 @@
 		<relationship name="parameters">
 			<destination>{1e5184e0-6dea-44c5-b881-adb9aaa6e517}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{c8a6c1aa-ec74-428b-b0e7-e657f35dfdea}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{ca00e838-331b-465d-8261-c1866a6856f4}">
 		<relationship name="masterBus">
@@ -81,7 +84,7 @@
 	</object>
 	<object class="MultiSound" id="{9e6199b8-d081-4966-aef1-ba018d938f3b}">
 		<relationship name="sounds">
-			<destination>{024fd171-7406-47fd-8e42-b7a7fe641819}</destination>
+			<destination>{d8a3df1d-cf46-4db9-9ae3-60814f08f042}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{80e8f336-fe09-4235-8f4c-4e05383fd275}">
@@ -99,14 +102,38 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3540cd75-7c0b-48cb-a9c8-5c6dfd06c82f}" />
-	<object class="SingleSound" id="{024fd171-7406-47fd-8e42-b7a7fe641819}">
-		<relationship name="audioFile">
-			<destination>{12b56443-98ee-4db8-8306-5ec56685bc62}</destination>
+	<object class="MultiSound" id="{d8a3df1d-cf46-4db9-9ae3-60814f08f042}">
+		<relationship name="sounds">
+			<destination>{ea50e112-4714-4306-9d17-c95ee2d1d0f3}</destination>
+			<destination>{13f2ef49-20aa-4a47-8115-e656df0c9e3f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{b02eb412-9a5b-4f3a-831a-1837480276fa}" />
 	<object class="MixerBusFader" id="{31eade1c-34e8-457c-bb1c-1d9dec700b2e}" />
-	<object class="SFXReverbEffect" id="{f2526b8c-2c7a-42d6-8258-b72c0d208f22}" />
+	<object class="SFXReverbEffect" id="{f2526b8c-2c7a-42d6-8258-b72c0d208f22}">
+		<property name="decayTime">
+			<value>1400</value>
+		</property>
+		<property name="earlyDelay">
+			<value>21</value>
+		</property>
+		<property name="diffusion">
+			<value>56</value>
+		</property>
+		<property name="wetLevel">
+			<value>-66</value>
+		</property>
+	</object>
 	<object class="DistortionEffect" id="{efd3508e-f38e-48b0-bc79-982287820f40}" />
 	<object class="PitchShifterEffect" id="{05df1576-1d1b-41ff-b941-15708a96d17f}" />
+	<object class="SingleSound" id="{ea50e112-4714-4306-9d17-c95ee2d1d0f3}">
+		<relationship name="audioFile">
+			<destination>{c8515a19-0bd4-41c2-8f5c-47dbb911350e}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{13f2ef49-20aa-4a47-8115-e656df0c9e3f}">
+		<relationship name="audioFile">
+			<destination>{5fd7bff0-7deb-4a14-a543-f182b84e79cf}</destination>
+		</relationship>
+	</object>
 </objects>
