@@ -101,6 +101,7 @@
 			<destination>{589dbcad-b685-41b8-8d38-490aa124ba76}</destination>
 			<destination>{c6baa6e1-c028-4550-a57a-7b7a8c0d2ded}</destination>
 			<destination>{00da10c1-dcfa-4837-8f50-b2d3d48ff90e}</destination>
+			<destination>{6ab4d986-bba2-4446-9ee2-a150da108a31}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{081b2d48-2338-48ab-b2a4-c73fa51b3eaa}" />
@@ -115,13 +116,13 @@
 	<object class="MixerBusFader" id="{758f3e4c-0368-4b4d-bf10-62bc2234dd89}" />
 	<object class="SFXReverbEffect" id="{589dbcad-b685-41b8-8d38-490aa124ba76}">
 		<property name="decayTime">
-			<value>2600</value>
+			<value>3100</value>
 		</property>
 		<property name="HFDecayRatio">
-			<value>100</value>
+			<value>70</value>
 		</property>
 		<property name="diffusion">
-			<value>0</value>
+			<value>46</value>
 		</property>
 		<property name="lowShelfFrequency">
 			<value>1000</value>
@@ -130,16 +131,24 @@
 			<value>12</value>
 		</property>
 		<property name="highCut">
-			<value>1200</value>
+			<value>20000</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{c6baa6e1-c028-4550-a57a-7b7a8c0d2ded}" />
 	<object class="PitchShifterEffect" id="{00da10c1-dcfa-4837-8f50-b2d3d48ff90e}">
+		<property name="pitch">
+			<value>0.610000014</value>
+		</property>
 		<property name="fftSize">
-			<value>1460</value>
+			<value>1040</value>
 		</property>
 		<property name="overlap">
-			<value>17.6000004</value>
+			<value>16.8000011</value>
+		</property>
+	</object>
+	<object class="DistortionEffect" id="{6ab4d986-bba2-4446-9ee2-a150da108a31}">
+		<property name="level">
+			<value>0.0599999987</value>
 		</property>
 	</object>
 </objects>
