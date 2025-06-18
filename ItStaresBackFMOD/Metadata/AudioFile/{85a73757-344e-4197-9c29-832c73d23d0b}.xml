@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{85a73757-344e-4197-9c29-832c73d23d0b}">
+		<property name="assetPath">
+			<value>Barefoot Steps/8.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.53445833333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c621cc6d-48ac-4e45-a3c0-a48cfead8be5}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -136,9 +136,6 @@
 	</object>
 	<object class="MixerBusFader" id="{c6baa6e1-c028-4550-a57a-7b7a8c0d2ded}" />
 	<object class="PitchShifterEffect" id="{00da10c1-dcfa-4837-8f50-b2d3d48ff90e}">
-		<property name="pitch">
-			<value>0.610000014</value>
-		</property>
 		<property name="fftSize">
 			<value>1040</value>
 		</property>
@@ -148,7 +145,7 @@
 	</object>
 	<object class="DistortionEffect" id="{6ab4d986-bba2-4446-9ee2-a150da108a31}">
 		<property name="level">
-			<value>0.0599999987</value>
+			<value>0.0649999976</value>
 		</property>
 	</object>
 </objects>
