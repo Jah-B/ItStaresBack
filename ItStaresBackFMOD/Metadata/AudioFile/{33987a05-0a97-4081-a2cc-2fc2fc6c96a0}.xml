@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{33987a05-0a97-4081-a2cc-2fc2fc6c96a0}">
 		<property name="assetPath">
-			<value>Bells, Large, Distant, 100m, Reverberant, Avvocata SND97114.wav</value>
+			<value>Bells/Bells, Large, Distant, 100m, Reverberant, Avvocata SND97114.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

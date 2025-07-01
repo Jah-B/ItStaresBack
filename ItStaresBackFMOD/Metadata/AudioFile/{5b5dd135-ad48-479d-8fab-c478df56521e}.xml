@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{5b5dd135-ad48-479d-8fab-c478df56521e}">
 		<property name="assetPath">
-			<value>Metal, Movement, Designed Metallic Bass, Swish By SND1879.wav</value>
+			<value>Metal/Metal, Movement, Designed Metallic Bass, Swish By SND1879.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
