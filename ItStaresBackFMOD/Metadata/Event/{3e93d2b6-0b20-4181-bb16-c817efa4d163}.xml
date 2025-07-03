@@ -117,12 +117,12 @@
 	<object class="MixerBusFader" id="{167fdd9a-609c-467c-8869-9194a20d4e91}" />
 	<object class="DistortionEffect" id="{bc103c0e-1e01-4452-b2b9-ec32e700ecda}">
 		<property name="level">
-			<value>0.0399999991</value>
+			<value>0.104999997</value>
 		</property>
 	</object>
 	<object class="PitchShifterEffect" id="{c5ef3591-7dfb-40ce-bd8f-386bcc93cfa3}">
 		<property name="pitch">
-			<value>1.39999998</value>
+			<value>2</value>
 		</property>
 	</object>
 	<object class="SFXReverbEffect" id="{7d41ee99-2f88-4b01-8583-d8b4645d8f44}">

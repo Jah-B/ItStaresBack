@@ -59,7 +59,11 @@
 			<destination>{a1624fc8-e928-4202-8bec-6fa9983f9a80}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{c2cdbc01-5130-458d-b5e6-73c954f2242b}" />
+	<object class="EventAutomatableProperties" id="{c2cdbc01-5130-458d-b5e6-73c954f2242b}">
+		<property name="dopplerScale">
+			<value>500</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{7f703340-4b40-4b0b-aa07-46af1d70eeaf}" />
 	<object class="Timeline" id="{6768501f-ab9b-4dfd-907d-99aa48db2718}">
 		<property name="isProxyEnabled">
@@ -72,6 +76,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{16265c3d-8da2-4e77-ab6d-3988d34d9323}">
+		<property name="pitch">
+			<value>-5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{4f068b8e-2fa3-44fd-90b2-8e8f40b2291d}</destination>
 		</relationship>
@@ -115,5 +122,9 @@
 			<value>1</value>
 		</property>
 	</object>
-	<object class="PitchShifterEffect" id="{b0571585-cd03-43b3-b048-93f2515ca2fb}" />
+	<object class="PitchShifterEffect" id="{b0571585-cd03-43b3-b048-93f2515ca2fb}">
+		<property name="pitch">
+			<value>0.620000005</value>
+		</property>
+	</object>
 </objects>

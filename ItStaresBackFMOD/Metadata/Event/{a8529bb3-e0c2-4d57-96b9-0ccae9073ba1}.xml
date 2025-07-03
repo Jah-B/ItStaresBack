@@ -137,7 +137,14 @@
 	</object>
 	<object class="PitchShifterEffect" id="{7b400c75-e040-40b3-a681-6092b9a71cf3}" />
 	<object class="SFXReverbEffect" id="{2f0bdb68-7ba1-45a1-af0b-7fc60aa21f62}" />
-	<object class="SpatialiserEffect" id="{84e35e34-424d-4e03-9225-e0e3857b3def}" />
+	<object class="SpatialiserEffect" id="{84e35e34-424d-4e03-9225-e0e3857b3def}">
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>1000</value>
+		</property>
+	</object>
 	<object class="SingleSound" id="{f468cab2-a4da-4778-9574-cec55f15834c}">
 		<relationship name="audioFile">
 			<destination>{5c8c4d5c-9d2e-4d16-894f-18c3af9f7703}</destination>

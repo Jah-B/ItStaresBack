@@ -139,6 +139,9 @@
 		<property name="extentMode">
 			<value>1</value>
 		</property>
+		<property name="soundSize">
+			<value>52</value>
+		</property>
 	</object>
 	<object class="SingleSound" id="{15e95e33-af47-4f5d-b6fd-feeb289bf73c}">
 		<relationship name="audioFile">
