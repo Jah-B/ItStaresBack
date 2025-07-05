@@ -5,7 +5,7 @@
 			<value>Enemy in Pain</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{4c8adb9a-1830-4102-9bb5-e73b0864782c}</destination>
@@ -59,7 +59,11 @@
 			<destination>{a1624fc8-e928-4202-8bec-6fa9983f9a80}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{64141e9b-8016-40c1-9282-cdbea39920ea}" />
+	<object class="EventAutomatableProperties" id="{64141e9b-8016-40c1-9282-cdbea39920ea}">
+		<property name="maximumDistance">
+			<value>350</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{0aaf9813-fe25-4f60-b509-57bb96f874df}" />
 	<object class="Timeline" id="{95c1c97b-aa21-4648-950d-415642673169}">
 		<property name="isProxyEnabled">
@@ -102,6 +106,7 @@
 			<destination>{ff33202c-01f1-4b7f-9e92-dd0fab57b316}</destination>
 			<destination>{5a7ab0f4-8688-45c0-8379-3279f04f4559}</destination>
 			<destination>{77e0eea6-0ce3-4f21-a99a-9b7bc46dbd0f}</destination>
+			<destination>{c32b67ed-1266-4bfc-a27a-5df78ccd7f74}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4c1cd2fc-da19-467a-a8d9-c2b664ea9192}" />
@@ -141,4 +146,5 @@
 			<value>0.729999959</value>
 		</property>
 	</object>
+	<object class="SpatialiserEffect" id="{c32b67ed-1266-4bfc-a27a-5df78ccd7f74}" />
 </objects>
