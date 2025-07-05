@@ -262,6 +262,8 @@
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Items/Enums/Enum_Hands.uasset",
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/FMOD/Events/Enemy_Hit.uasset",
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/FMOD/Events/Enemy_Death.uasset",
+				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Items/Enums/Enum_DrugEffects.uasset",
+				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Items/BPs/BP_Hallucinations.uasset",
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/ThirdPerson/SM_Beartrap.uasset",
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Assets/Models/Items/BearTrap/Iron.uasset",
 				"E:/UE5/GitHub/ItStaresBack2/ItStaresBack/Content/Assets/Models/Items/BearTrap/Organic_trap_albedo.uasset",
