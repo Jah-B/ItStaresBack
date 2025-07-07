@@ -31,6 +31,9 @@
 		<relationship name="parameters">
 			<destination>{ffb7bd08-cf29-404b-a335-50678ea1507e}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{91f50e1c-d00d-458e-b143-5f77fcf04eec}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{8dcc08d7-186d-4f0d-82d5-a2a1aef32b55}">
 		<relationship name="masterBus">
@@ -69,7 +72,7 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{78fa8d56-e691-493e-996e-828da48f50da}">
-		<property name="pitch">
+		<property name="volume">
 			<value>7</value>
 		</property>
 		<relationship name="effectChain">
@@ -99,6 +102,7 @@
 			<destination>{4bcd7c05-e42a-44ea-9de3-4f9234c670d4}</destination>
 			<destination>{69b68a0c-6639-4152-a775-41fe3807998e}</destination>
 			<destination>{b8ec3455-c134-4220-87c8-ce72d084ccc4}</destination>
+			<destination>{5047d5f2-3538-48f5-980a-968dbb513803}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{313617d6-cfb0-4ffd-86fd-f9a4546a867b}" />
@@ -124,4 +128,5 @@
 			<value>1.22000003</value>
 		</property>
 	</object>
+	<object class="DistortionEffect" id="{5047d5f2-3538-48f5-980a-968dbb513803}" />
 </objects>
