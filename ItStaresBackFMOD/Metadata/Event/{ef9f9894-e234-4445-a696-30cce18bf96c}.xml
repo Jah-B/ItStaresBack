@@ -87,6 +87,9 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{ed24d715-c38e-4feb-974f-e8fff588ed90}">
+		<property name="playbackMode">
+			<value>1</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{d065469f-3e38-414c-86ef-c84b6fe37d18}</destination>
 		</relationship>
