@@ -92,7 +92,6 @@
 		<relationship name="sounds">
 			<destination>{54e8516f-f7d8-4ad6-8809-542f7b56dd71}</destination>
 			<destination>{b4cfb3c1-d174-47f9-8027-555d2a9b140e}</destination>
-			<destination>{38834516-77ee-4863-91a6-1dbc697c103e}</destination>
 			<destination>{a56caf25-c173-4e1c-b7da-208d66ce5d1f}</destination>
 			<destination>{0a715c1b-4ed5-4299-91e4-dce92dbe3432}</destination>
 			<destination>{29ff138a-0e0a-4858-a97c-c9aa66be063e}</destination>
@@ -115,6 +114,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{d74f761e-d356-4ee1-a655-7481d986666c}" />
 	<object class="SingleSound" id="{54e8516f-f7d8-4ad6-8809-542f7b56dd71}">
+		<property name="pitch">
+			<value>-3.79999995</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{846fd2e9-dd65-4d1d-9704-287a4464a6e8}</destination>
 		</relationship>
@@ -122,11 +124,6 @@
 	<object class="SingleSound" id="{b4cfb3c1-d174-47f9-8027-555d2a9b140e}">
 		<relationship name="audioFile">
 			<destination>{124df32a-6753-420b-9242-16ba1c0c8cb9}</destination>
-		</relationship>
-	</object>
-	<object class="SingleSound" id="{38834516-77ee-4863-91a6-1dbc697c103e}">
-		<relationship name="audioFile">
-			<destination>{24f9d25a-58e6-4936-99d8-58dd58ab4115}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{a56caf25-c173-4e1c-b7da-208d66ce5d1f}">
@@ -153,7 +150,7 @@
 	<object class="MixerBusFader" id="{22ae47ce-2920-402a-a269-5c194c3a19b7}" />
 	<object class="DistortionEffect" id="{b2edcb5c-6f51-412a-b1c8-a5f88b84db36}">
 		<property name="level">
-			<value>0.899999976</value>
+			<value>1</value>
 		</property>
 	</object>
 	<object class="PitchShifterEffect" id="{7a4a813f-cc20-4fc8-be86-e187eccb0da9}">
